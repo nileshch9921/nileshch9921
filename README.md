@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi there, I'm Nilesh Chavan<br><br>💻 I'm currently working on AI-powered web applications and full-stack development projects.<br><br>🤝 I'm looking to collaborate on Open Source, AI, and Web Development projects.<br><br>🫶 I'm looking for help with Machine Learning, System Design, and scalable backend development.<br><br>🌱 I'm currently learning Java, Data Structures & Algorithms, Full-Stack Development, and Artificial Intelligence.<br><br>💬 Ask me about Java, Web Development, MySQL, GitHub, and AI project ideas.<br><br>⚡ Fun fact: I love turning ideas into real projects and believe that consistency beats talent.
+## 👋 Hi there, I'm Nilesh Chavan<br><br>💻 currently working on AI-powered web applications and full-stack development projects.<br><br>🤝  looking to collaborate on Open Source, AI, and Web Development projects.<br><br>🫶  looking for help with Machine Learning, System Design, and scalable backend development.<br><br>🌱  currently learning Java, Data Structures & Algorithms, Full-Stack Development, and Artificial Intelligence.<br><br>💬 Ask me about Java, Web Development, MySQL, GitHub, and AI project ideas.<br><br>⚡ Fun fact: I love turning ideas into real projects and believe that consistency beats talent.
 
 
 ## 🌐 Socials:
